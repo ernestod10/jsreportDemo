@@ -1,0 +1,175 @@
+2020-08-05T05:42:15.996Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?
+undefined
+2020-08-05T05:42:44.354Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-05T05:42:50.943Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-05T23:26:27.526Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token . in JSON at position 68, stack: SyntaxError: Unexpected token . in JSON at position 68
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:27:30.573Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 51, stack: SyntaxError: Unexpected string in JSON at position 51
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:04.260Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 60, stack: SyntaxError: Unexpected string in JSON at position 60
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:13.111Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 60, stack: SyntaxError: Unexpected string in JSON at position 60
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:44.787Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:48.050Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:49.405Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:50.036Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:50.418Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:28:50.706Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:29:07.822Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected string in JSON at position 48, stack: SyntaxError: Unexpected string in JSON at position 48
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-05T23:36:23.140Z - error: Rendering request 6 finished with error in 233 ms
+2020-08-05T23:36:23.142Z - error: Error when processing render request 6 Cannot read property 'pdfAsset' of undefined TypeError: Cannot read property 'pdfAsset' of undefined
+    at Object.execute (C:\Users\Personal\desktop\jsrprt\node_modules\jsreport-static-pdf\lib\main.js:43:39)
+    at invokeRender (C:\Users\Personal\desktop\jsrprt\node_modules\jsreport-core\lib\render\render.js:98:17)
+    at async module.exports (C:\Users\Personal\desktop\jsrprt\node_modules\jsreport-core\lib\render\render.js:149:5)
+2020-08-05T23:36:23.142Z - error: Error during processing request at http://localhost:5488/api/report/invoice-main
+2020-08-05T23:38:27.805Z - error: Error during processing request at http://localhost:5488/api/, details: Unexpected string in JSON at position 49, stack: SyntaxError: Unexpected string in JSON at position 49
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-06T05:53:35.190Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-06T05:53:47.817Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-06T06:23:51.025Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-06T23:07:20.060Z - error: Rendering request 6 finished with error in 516 ms
+2020-08-06T23:07:20.062Z - error: Error when processing render request 6 Cannot read property 'pdfAsset' of undefined TypeError: Cannot read property 'pdfAsset' of undefined
+    at Object.execute (C:\Users\Personal\desktop\jsrprt\node_modules\jsreport-static-pdf\lib\main.js:43:39)
+    at invokeRender (C:\Users\Personal\desktop\jsrprt\node_modules\jsreport-core\lib\render\render.js:98:17)
+    at async module.exports (C:\Users\Personal\desktop\jsrprt\node_modules\jsreport-core\lib\render\render.js:149:5)
+2020-08-06T23:07:20.066Z - error: Error during processing request at http://localhost:5488/api/report
+2020-08-06T23:44:17.643Z - error: Error during processing request at http://undefined/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-09T22:29:01.052Z - error: Error during processing request at http://undefined/api/report, details: Unexpected token i in JSON at position 40, stack: SyntaxError: Unexpected token i in JSON at position 40
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Personal\desktop\jsrprt\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Personal\desktop\jsrprt\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:315:20)
+    at endReadableNT (_stream_readable.js:1224:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:48:31.811Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token ] in JSON at position 1479, stack: SyntaxError: Unexpected token ] in JSON at position 1479
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:50:09.610Z - error: Error during processing request at http://localhost:5488/api/report, details: Unexpected token ] in JSON at position 1517, stack: SyntaxError: Unexpected token ] in JSON at position 1517
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\Tomas El Fakih\Documents\Desarrollo\jsreportATF\node_modules\raw-body\index.js:273:7)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1221:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+2020-08-12T18:50:47.286Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:51:17.818Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:58:40.920Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T18:58:42.425Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined
+2020-08-12T19:01:41.045Z - error: Error during processing request at http://localhost:5488/api/report, details: Could not parse report template, aren't you missing content type?, stack: undefined

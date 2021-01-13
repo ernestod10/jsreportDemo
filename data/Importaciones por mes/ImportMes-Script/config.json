@@ -1,0 +1,13 @@
+{
+    "shortid": "Skgp1x2WzP",
+    "name": "ImportMes-Script",
+    "creationDate": {
+        "$$date": 1597255664880
+    },
+    "modificationDate": {
+        "$$date": 1610492852577
+    },
+    "_id": "AzISIo3LOpEAyzRT",
+    "$entitySet": "scripts",
+    "isGlobal": false
+}

@@ -1,0 +1,22 @@
+{
+    "shortid": "SkgcEsg-GP",
+    "name": "ImportMes",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1597209404929
+    },
+    "modificationDate": {
+        "$$date": 1610492862423
+    },
+    "_id": "aMGMoTI58jLAAPyz",
+    "$entitySet": "templates",
+    "scripts": [
+        {
+            "shortid": "Skgp1x2WzP"
+        }
+    ]
+}

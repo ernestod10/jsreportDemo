@@ -1,0 +1,23 @@
+{
+    "shortid": "Hkev7gvMMw",
+    "name": "top-productos",
+    "recipe": "chrome-pdf",
+    "engine": "handlebars",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1597300774931
+    },
+    "modificationDate": {
+        "$$date": 1610493169094
+    },
+    "_id": "Lx3ZJvlojqwI08s1",
+    "$entitySet": "templates",
+    "scripts": [
+        {
+            "shortid": "S1xDEgvfzD"
+        }
+    ],
+    "data": null
+}

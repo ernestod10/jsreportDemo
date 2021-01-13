@@ -1,0 +1,14 @@
+{
+    "name": "Factura-script",
+    "inheritedReadPermissions": [],
+    "inheritedEditPermissions": [],
+    "creationDate": {
+        "$$date": 1597095776462
+    },
+    "modificationDate": {
+        "$$date": 1597095969622
+    },
+    "shortid": "Y3MYJ6a",
+    "_id": "0l6TauCFyOq7nkyv",
+    "$entitySet": "scripts"
+}

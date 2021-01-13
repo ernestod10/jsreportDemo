@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/metro/4.1.5/css/metro.min.css">
+     <h1>Importaciones Por Mes </h1>
+     </head>
+  <body>
+     
+     </canvas>
+        <table class='table striped'>
+            <thead>
+                <tr>
+                    <th>Mes</th>
+                    <th>Numero Importaciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each rows}}
+                <tr>
+                    <td>{{transformarMes mes}}</td>
+                    <td>{{count}}</td>
+
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+
+       
+        <div style='page-break-after: always;'>
+        </div>
+
+  </body>
+</html>
